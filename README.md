@@ -23,7 +23,11 @@ A straightforward, user-friendly to-do list application for Android, written in 
    - Tasks are displayed in a simple list format.
 # Screeshots
 <div>
-  <img src="" width="250" height="300"> 
+  <img src="app/src/main/res/drawable/img.png" width="350" height="400"> 
+  <img src="app/src/main/res/drawable-v24/img_2.png" width="350" height="400"> 
+  <img src="app/src/main/res/drawable-v24/img_3.png" width="350" height="400">
+  <img src="app/src/main/res/drawable-v24/img_4.png" width="350" height="400">
+  <img src="app/src/main/res/drawable-v24/img_5.png" width="350" height="400">   
 </div>
 # Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
